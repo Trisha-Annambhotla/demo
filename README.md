@@ -1,4 +1,4 @@
 # demo
 My first Git Repository
-<br> #means next line in html can also use in readme
+<br> 
 Author- Trisha Annambhotla 
