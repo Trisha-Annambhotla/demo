@@ -1,4 +1,4 @@
 # demo
 My first Git Repository
 <br> 
-Author- Trisha Annambhotla 
+Author- Trisha A
